@@ -1,0 +1,3 @@
+firewall_enabled=true
+password_length=12
+debug_mode=false
